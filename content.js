@@ -8,5 +8,5 @@ function autoClickYesButton() {
     }
   }
   
-  setInterval(autoClickYesButton, 10000); // Check every 10 seconds
+  setInterval(autoClickYesButton, 30000); // Check every 30 seconds
   
