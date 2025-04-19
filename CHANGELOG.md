@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.0.2] - 2025-04-19
+### Changed
+- Reduced interval for auto-click from 10s to 30s for better performance
+
 ## [v1.0.1] - 2025-04-19
 ### Added
 - Custom extension icon (`icon-youtube-no-pause.png`)
