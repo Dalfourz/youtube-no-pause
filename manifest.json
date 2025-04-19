@@ -3,6 +3,9 @@
     "name": "YouTube Auto Continue",
     "version": "1.0",
     "description": "Automatically clicks 'Continue watching' on YouTube and YouTube Music.",
+    "icons": {
+      "128": "icon-youtube-no-pause.png"
+    },
     "permissions": ["scripting"],
     "host_permissions": [
       "https://www.youtube.com/*",
@@ -18,4 +21,5 @@
         "run_at": "document_end"
       }
     ]
-  }  
+  }
+  
